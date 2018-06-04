@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\PHI spam source\PhiData\bin\Debug\PhiData.dll
+C:\Users\user\Desktop\PHI spam source\PhiData\bin\Debug\PhiData.pdb
+C:\Users\user\Desktop\PHI spam source\PhiData\bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\PHI spam source\PhiData\bin\Debug\UnityEngine.dll
+C:\Users\user\Desktop\PHI spam source\PhiData\obj\Debug\PhiData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PHI spam source\PhiData\obj\Debug\PhiData.csproj.CopyComplete
+C:\Users\user\Desktop\PHI spam source\PhiData\obj\Debug\PhiData.dll
+C:\Users\user\Desktop\PHI spam source\PhiData\obj\Debug\PhiData.pdb
