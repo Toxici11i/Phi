@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\PhiClient.dll
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\PhiClient.pdb
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\Community Core Library.dll
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\PhiData.dll
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\SocketLibrary.dll
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\UnityEngine.dll
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\websocket-sharp.dll
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\PhiData.pdb
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\SocketLibrary.pdb
+C:\Users\user\Desktop\PHI spam source\PhiClient\bin\Debug\websocket-sharp.xml
+C:\Users\user\Desktop\PHI spam source\PhiClient\obj\Debug\PhiClient.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PHI spam source\PhiClient\obj\Debug\PhiClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PHI spam source\PhiClient\obj\Debug\PhiClient.csproj.CopyComplete
+C:\Users\user\Desktop\PHI spam source\PhiClient\obj\Debug\PhiClient.dll
+C:\Users\user\Desktop\PHI spam source\PhiClient\obj\Debug\PhiClient.pdb
